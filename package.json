@@ -5,11 +5,11 @@
   "homepage": "https://samnoon1971.github.io/Calculator",
   "devDependencies": {
     "chai": "^4.2.0",
-    "gh-pages": "^2.2.0",
     "prettier": "^1.17.1",
     "react-scripts": "^3.0.1"
   },
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
