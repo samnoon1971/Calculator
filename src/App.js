@@ -19,6 +19,7 @@ export default class App extends React.Component{
         <div className="component-app">
           <Display value={this.state.next || this.state.total || "0"} />
           <ButtonPanel clickHandler={this.handleClick} />
+          <footer id="footerName">S M Samnoon Abrar</footer>
         </div>
     );
   }

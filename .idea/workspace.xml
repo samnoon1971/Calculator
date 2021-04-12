@@ -19,21 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208d1978-88f8-474e-84bc-2333d7f25173" name="Default Changelist" comment="fixup! Initial commit">
-      <change afterPath="$PROJECT_DIR$/my-app/src/component/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/component/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/component/ButtonPanel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/component/ButtonPanel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/component/Display.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/component/Display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/logic/calculate.js" afterDir="false" />
+    <list default="true" id="208d1978-88f8-474e-84bc-2333d7f25173" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/logic/isNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/logic/isNumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/logic/operate.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/logic/operate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +71,6 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -106,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618202674507</updated>
       <workItem from="1618202675657" duration="4892000" />
+      <workItem from="1618215523664" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1618203595754</created>
@@ -135,7 +125,35 @@
       <option name="project" value="LOCAL" />
       <updated>1618203914811</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixup! Initial commit">
+      <created>1618215588160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618215588160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixup! Initial commit">
+      <created>1618215601686</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618215601686</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixup! Initial commit">
+      <created>1618215709713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618215709713</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixup! fixup! Initial commit">
+      <created>1618215766278</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618215766278</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,19 +169,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="operations added" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="fixup! Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixup! Initial commit" />
+    <MESSAGE value="fixup! fixup! Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! fixup! Initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="113" key="CommitChangelistDialog2" timestamp="1618203893302">
+    <state x="494" y="113" key="CommitChangelistDialog2" timestamp="1618215765422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="494" y="113" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618203893302" />
+    <state x="494" y="113" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618215765422" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1618213771085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,14 +248,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618213771086" />
-    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1618203862652">
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1618215739067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="281" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618203862652" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1618203923116">
+    <state x="598" y="281" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618215739067" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1618215807591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618203923116" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618215807591" />
+    <state x="819" y="424" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1618215651191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="424" key="git4idea.rebase.GitUnstructuredEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618215651191" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1618213130656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

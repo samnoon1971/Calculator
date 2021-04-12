@@ -4,3 +4,10 @@
   flex-wrap: wrap;
   height: 100%;
 }
+#footerName{
+  color: white;
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
